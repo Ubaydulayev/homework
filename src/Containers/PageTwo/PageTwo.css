@@ -1,0 +1,12 @@
+.seconds {
+    font-size: 18px;
+}
+
+.playPage{
+    position: absolute;
+    margin-left: 580px;
+    margin-top: 489px;
+    width: 300px;
+    border-radius: 50px;
+    background-color: white;
+}

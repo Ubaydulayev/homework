@@ -1,0 +1,32 @@
+.mainText {
+    font-size: 120px;
+    font-weight: 400;
+    width: 100%;
+}
+
+.unnecessaryText {
+    font-size: 26px;
+    font-weight: 400;
+}
+
+.menuPage {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.inputPage {
+    height: 50px;
+    width: 300px;
+    border-radius: 10px 0 0 10px;
+    border: 2px solid #0099FF;
+}
+
+.buttonPage {
+    border-radius: 0 10px 10px 0;
+    height: 50px;
+}
+
+.pageSmallText {
+    color: #B2B2B2;
+}
