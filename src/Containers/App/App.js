@@ -4,6 +4,7 @@ import Heading from '../Heading';
 import PageOne from '../PageOne';
 import PageTwo from '../PageTwo';
 import PageThree from '../PageThree';
+import PageFour from '../PageFour';
 
 function App() {
   return (
@@ -12,6 +13,7 @@ function App() {
       <PageOne />
       <PageTwo />
       <PageThree />
+      <PageFour />
     </div>
   );
 }

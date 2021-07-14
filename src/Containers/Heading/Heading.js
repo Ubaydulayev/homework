@@ -17,7 +17,7 @@ function Heading() {
                     <a className="btn btn-text">Learn</a>
                 </div>
                 <div className="headerButtons">
-                    <Button color="white" className="me-2">Login</Button>
+                    <Button color="white" className=" btn-outline-dark me-2">Login</Button>
                     <Button color="primary">Start free trial</Button>
                 </div>
             </div>

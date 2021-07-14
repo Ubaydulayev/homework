@@ -1,0 +1,24 @@
+.Three {
+    margin-top: 300px;
+    margin-bottom: 180px;
+}
+
+.textGreen {
+    color: #0C9F64;
+    font-weight: 700;
+    font-size: 30px;
+}
+
+.bigTextThree {
+    font-weight: 700;
+    font-size: 56px;
+}
+
+.smallTextThree {
+    font-size: 22px;
+    font-weight: 400;
+}
+
+.frame {
+    border-radius: 0 0 10px 10px;
+}

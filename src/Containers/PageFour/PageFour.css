@@ -1,0 +1,23 @@
+.Four {
+    margin-bottom: 200px;
+}
+
+.textYellow {
+    color: #FEC104;
+    font-weight: 700;
+    font-size: 30px;
+}
+
+.bigTextFour {
+    font-size: 57px;
+    font-weight: 700;
+}
+
+.smallTextFour {
+    font-weight: 400;
+    font-size: 22px;
+}
+
+.frame2 {
+    border-radius: 0 0 30px 30px;
+}
